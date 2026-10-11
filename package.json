@@ -1,0 +1,9 @@
+{
+  "name": "safeguard-ai-hardware-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local ESP32 telemetry bridge for SafeGuard AI",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2" }
+}
